@@ -4,7 +4,7 @@
 src_dir="/path/to/source/directory"
 dst_dir="/path/to/destination/directory"
 
-# Define the option to delete the source directory and its contents after a successful transfer (defualt no) set to "yes" to remove source
+# Define the option to delete the source directory and its contents after a successful transfer (default no) set to "yes" to remove source
 delete_src="no"
 
 # Use rsync to copy the contents of the source directory to the destination directory
